@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLQdYeBLs7OdbiMb4YgzSoval6TT6PbuR1xiVH1pGNtU8XJgs4RoPKB1aLHTEVIRnT43K9uoR2Fz0nG9VtB+pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\100752\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\100752\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\100752\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
